@@ -1,6 +1,6 @@
 # RentEase: A Web-Based Boarding House Rental and Tenant Management System
 
-## Student Name: Aubrey Corpus V.
+## Student Name: Aubrey Corpuz V.
 ## Course & Section: BSIT III-F2
 
 ## Project Description
